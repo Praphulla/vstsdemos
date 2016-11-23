@@ -1,6 +1,6 @@
 
 #[SmartTFS for VSTS](https://play.google.com/store/apps/details?id=com.canarys.smart.tfs) 
-![](./canarys.jpg)[Canarys Automations Private Limited](https://play.google.com/store/apps/developer?id=Canarys+Automations+Private+Limited)
+![](./media/canarys.jpg)[Canarys Automations Private Limited](https://play.google.com/store/apps/developer?id=Canarys+Automations+Private+Limited)
 
 
 > <b>Works with only Visual Studio Team Services (VSTS)</b>
@@ -11,6 +11,8 @@ Services (VSTS) right from your mobile phone and stay informed.
 
 This is the first release of the new version of the app and does not
 need oData configuration. More features will be added soon. Stay tuned.
+
+![](./SmartVSTS1 .jpg)
 
 ##Features:  
   • Beautiful dashboard with key metrics represented graphically  
@@ -34,3 +36,6 @@ the app to connect to VSTS.*
 
 Share your experiences, feature requests and feedback on our email
 tech-support@ecanarys.com with the subject line SmartTFS for VSTS
+
+![](./SmartVSTS2 .jpg)
+
