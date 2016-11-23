@@ -1,6 +1,6 @@
 
 #[SmartTFS for VSTS](https://play.google.com/store/apps/details?id=com.canarys.smart.tfs) 
-![](./media/canarys.jpg)[Canarys Automations Private Limited](https://play.google.com/store/apps/developer?id=Canarys+Automations+Private+Limited)
+![](./canarys.jpg)[Canarys Automations Private Limited](https://play.google.com/store/apps/developer?id=Canarys+Automations+Private+Limited)
 
 
 > <b>Works with only Visual Studio Team Services (VSTS)</b>
@@ -37,5 +37,5 @@ the app to connect to VSTS.*
 Share your experiences, feature requests and feedback on our email
 tech-support@ecanarys.com with the subject line SmartTFS for VSTS
 
-![](./SmartVSTS2 .jpg)
+![](./SmartVSTS2.jpg)
 
